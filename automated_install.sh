@@ -24,9 +24,9 @@ ClientSecret=YOUR_CLIENT_SECRET_HERE
 # Your Country. Must be 2 characters!
 Country='US'
 # Your state. Must be 2 or more characters.
-State='WA'
+State='CA'
 # Your city. Cannot be blank.
-City='SEATTLE'
+City='Woodland Hills'
 # Your organization name/company name. Cannot be blank.
 Organization='AVS_USER'
 # Your device serial number. Cannot be blank, but can be any combination of characters.
